@@ -5,10 +5,10 @@ admins = {}
 load_dotenv()
 
 # client vars
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "8391586"))
+API_HASH = getenv("API_HASH", "b1a43ce85cad3c904b795c44c2aac9ef")
 BOT_TOKEN = getenv("BOT_TOKEN", "5402913759:AAH2XxS76jDxVCMUA7FOocqQarN8Sbt-MwM")
-SESSION_NAME = getenv("SESSION_NAME", "")
+SESSION_NAME = getenv("SESSION_NAME", "BAAkeGVSjepkSrAoJgkUiSFHJbhrj7OUZZ2LvZcrp7JDIdHu6ZUvLREL2kCj2Wlnu6RffzzYfzZwH6m4W9wRkSnpC6QLYLkuH6c24l81JE8wFdCJBO-gh-PGsn67Vs7iKMSje2EvO7aa19VKevg4vR3UQF3GKS50ubRT2PA_G4SntFz5ogY12fo3CintMPxHy2xHxRkFSNKRzAMYDddp1bDy7rnBk0KVOq98jSrdCQctY7nL2FfoJ1rnUKdlbXv4NGn9YmJ4mx6H9xaeMb4LBQzSwcUSG2rW3xKUswCyuu4_PfqSfKFjAoQj0Un0iCPR6xyh3XBN3I9SSHUJ52t1SHvjeXmNbgA")
 
 # mandatory vars
 OWNER_USERNAME = getenv("OWNER_USERNAME", "U_8_U_2")
