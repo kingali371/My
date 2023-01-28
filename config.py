@@ -13,7 +13,7 @@ SESSION_NAME = getenv("SESSION_NAME", "BAAkeGVSjepkSrAoJgkUiSFHJbhrj7OUZZ2LvZcrp
 # mandatory vars
 OWNER_USERNAME = getenv("OWNER_USERNAME", "U_8_U_2")
 ALIVE_NAME = getenv("ALIVE_NAME", "music")
-BOT_USERNAME = getenv("BOT_USERNAME", "")
+BOT_USERNAME = getenv("BOT_USERNAME", "music_king12bot")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/kingali371/My")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
